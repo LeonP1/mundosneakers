@@ -1,0 +1,19 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.holder {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.holder img {
+  max-width: 100%;
+}
+
+h2 {
+  color: #CE1141;
+  font-weight: 400;
+}
